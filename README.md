@@ -1,5 +1,5 @@
 # AMD-RADEON FirePro
-GCN 1.0 - 2.0 - 3.0 - 4.0
+# GCN 1.0 - 2.0 - 3.0 - 4.0
 
 Graphics Core Next (GCN)
 ​ es el nombre en clave de una serie de microarquitecturas y una arquitectura de conjunto de instrucciones que AMD desarrolló para sus GPU como sucesora de su microarquitectura TeraScale. El primer producto con GCN se lanzó el 9 de enero de 2012.
