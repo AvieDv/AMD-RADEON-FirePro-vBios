@@ -9,4 +9,5 @@ GCN es una microarquitectura SIMD de conjunto de instrucciones reducido que cont
 
 Los chips gráficos GCN se fabricaron con CMOS a 28 nm y con FinFET a 14 nm (por Samsung Electronics y GlobalFoundries) y 7 nm (por TSMC), disponibles en modelos seleccionados en AMD Radeon HD 7000, HD 8000, RX 200, RX 300, RX 400, RX 500 y Vega series de tarjetas gráficas, incluida la Radeon VII lanzada por separado. GCN también se utilizó en la parte gráfica de las unidades de procesamiento acelerado (APUs - Accelerated Processing Units), como las de PlayStation 4 y Xbox One.
 
-![´](https://github.com/AvieDv/AMD-FirePro/assets/43917721/b8c0e387-6ec6-489b-9fdc-17947d2225e9)
+![m6100](https://github.com/AvieDv/AMD-FirePro/assets/43917721/9966bd18-cfea-46d3-bb42-93d54f134f66)
+
