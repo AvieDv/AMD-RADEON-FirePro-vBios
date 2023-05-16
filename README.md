@@ -1,4 +1,4 @@
-# AMD-RADEON FirePro en iMac A1311 - A1312
+# AMD Mobile-RADEON FirePro en iMac A1311 - A1312
 # GCN 1.0 - 2.0 - 3.0 - 4.0
 
 Graphics Core Next (GCN)
